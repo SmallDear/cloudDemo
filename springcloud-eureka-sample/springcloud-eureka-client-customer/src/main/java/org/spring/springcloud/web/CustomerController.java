@@ -36,6 +36,7 @@ public class CustomerController {
 
     @RequestMapping(value = "/getUserLogin" , method = RequestMethod.GET)
     public String getUserLogin(){
+        System.out.println("访问了  getUserLogin  接口");
      return userName;
     }
 
