@@ -9,3 +9,5 @@ eureka:
 spring:
   application:
     name: customer-service # 服务名称
+
+userName: 我是怪T

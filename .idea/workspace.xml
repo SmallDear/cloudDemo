@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2d8af12-c268-4b2b-b4c7-4f8e5830a8bf" name="Default Changelist" comment="" />
+    <list default="true" id="c2d8af12-c268-4b2b-b4c7-4f8e5830a8bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-provider/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-eureka-cluster/target/" />
@@ -21,57 +25,79 @@
     <session id="2090124353">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="14" />
           <entry key="iml" value="2" />
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
           <entry key="properties" value="1" />
           <entry key="xml" value="2" />
           <entry key="xsd" value="2" />
-          <entry key="yml" value="6" />
+          <entry key="yml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="14" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="4" />
-          <entry key="YAML" value="6" />
+          <entry key="YAML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="38" />
-          <entry key="yml" value="5" />
+          <entry key="java" value="187" />
+          <entry key="yml" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="38" />
-          <entry key="YAML" value="5" />
+          <entry key="JAVA" value="187" />
+          <entry key="YAML" value="52" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-server/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+            <state relative-caret-position="324">
+              <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/CustomerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +108,9 @@
     <findStrings>
       <find>spring</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -97,6 +126,8 @@
         <option value="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/CustomerApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-server/src/main/resources/application-cluster8889.yml" />
         <option value="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java" />
       </list>
     </option>
   </component>
@@ -118,11 +149,14 @@
     <option name="width" value="885" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,18 +169,76 @@
               <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542786673797" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542789879802" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -205,17 +297,19 @@
       <workItem from="1542707859739" duration="5694000" />
       <workItem from="1542759791495" duration="42000" />
       <workItem from="1542760850270" duration="2935000" />
-      <workItem from="1542781995924" duration="3392000" />
+      <workItem from="1542781995924" duration="4866000" />
+      <workItem from="1542789341234" duration="538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12063000" />
+    <option name="totallyTimeSpent" value="14075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29177377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29562983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -390,13 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/CustomerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/springcloud-eureka-client-customer.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2534">
@@ -432,20 +519,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="27" column="79" lean-forward="true" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -469,8 +542,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+        <state relative-caret-position="270">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/CustomerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="8" selection-start-line="12" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/web/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
