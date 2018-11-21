@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/springcloud-eureka-client-customer.iml" filepath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/springcloud-eureka-client-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-provider/springcloud-eureka-client-provider.iml" filepath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-provider/springcloud-eureka-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-customer/springcloud-eureka-cluster-client-customer.iml" filepath="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-customer/springcloud-eureka-cluster-client-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-provider/springcloud-eureka-cluster-client-provider.iml" filepath="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-client-provider/springcloud-eureka-cluster-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-server/springcloud-eureka-cluster-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-cluster/springcloud-eureka-cluster-server/springcloud-eureka-cluster-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-sample.iml" filepath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-server/springcloud-eureka-server.iml" />
+    </modules>
+  </component>
+</project>
