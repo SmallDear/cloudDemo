@@ -1,5 +1,5 @@
 server:
-  port: 8081 # 服务端口
+  port: 8092 # 服务端口
 
 eureka:
   client:
@@ -9,3 +9,5 @@ eureka:
 spring:
   application:
     name: customer-service # 服务名称
+
+userName: 我是怪T
