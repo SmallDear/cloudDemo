@@ -6,8 +6,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
 =======
     <list default="true" id="d9f61194-ba34-4ff2-b25b-f85fa7d159b1" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/Demo.java" afterDir="false" />
 >>>>>>> springCloud_brh_v1
+>>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +38,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="129" />
+          <entry key="java" value="134" />
           <entry key="txt" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="129" />
+          <entry key="JAVA" value="134" />
           <entry key="PLAIN_TEXT" value="25" />
         </counts>
       </usages-collector>
@@ -51,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="405">
+              <caret line="20" column="103" lean-forward="true" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -100,6 +104,9 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+=======
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -151,14 +158,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
 >>>>>>> springCloud_brh_v1
+>>>>>>> master
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="src" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
+>>>>>>> master
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -176,15 +194,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-learning-example-master" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-eureka-client-customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
 =======
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -192,6 +203,7 @@
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
 >>>>>>> springCloud_brh_v1
+>>>>>>> master
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -203,6 +215,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
               <item name="web" type="462c0819:PsiDirectoryNode" />
 =======
               <item name="springcloud-eureka-client-provider" type="462c0819:PsiDirectoryNode" />
@@ -326,6 +340,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
             </path>
           </expand>
           <select />
@@ -337,7 +352,7 @@
 <<<<<<< HEAD
 =======
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543802335884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543806140462" />
   </component>
 >>>>>>> springCloud_brh_v1
   <component name="RunDashboard">
@@ -389,6 +404,9 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+    <option name="totallyTimeSpent" value="980000" />
+=======
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5000" />
   </component>
   <component name="ToolWindowManager">
@@ -397,13 +415,18 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
 =======
     <option name="totallyTimeSpent" value="361000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+=======
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
 >>>>>>> springCloud_brh_v1
+>>>>>>> master
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -423,7 +446,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.3251599" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32729805" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" visible="true" weight="0.3251599" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49946696" visible="true" weight="0.3251599" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32942432" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -468,6 +491,32 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -530,8 +579,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-eureka-sample/springcloud-eureka-client-customer/src/main/java/org/spring/springcloud/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="405">
+          <caret line="20" column="103" lean-forward="true" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
         </state>
       </provider>
     </entry>

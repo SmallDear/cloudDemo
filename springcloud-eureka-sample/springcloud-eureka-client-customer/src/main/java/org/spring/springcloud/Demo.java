@@ -18,7 +18,11 @@ public class Demo {
         items.put("E", 50);
         items.put("F", 60);
 
-        System.out.println("hashdahsdfadskfhlkasjfdhkasjhfksajhdfkahdsfkahsdkfjhsakdjfksdhfksaj++++   -----");
+//<<<<<<< HEAD
+//        System.out.println("hashdahsdfadskfhlkasjfdhkasjhfksajhdfkahdsfkahsdkfjhsakdjfksdhfksaj++++   -----");
+//=======
+//        System.out.println("hashdahsdfadskfhlkasjfdhkasjhfksajhdfkahdsfkahsdkfjhsakdjfksdhfksaj=====");
+//>>>>>>> springCloud_brh_v1
 
 
 //       for (Map.Entry<String , Integer> entry : items.entrySet()){
