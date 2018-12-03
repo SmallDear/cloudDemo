@@ -17,6 +17,10 @@ public class Demo {
         items.put("D", 40);
         items.put("E", 50);
         items.put("F", 60);
+
+        System.out.println("hashdahsdfadskfhlkasjfdhkasjhfksajhdfkahdsfkahsdkfjhsakdjfksdhfksaj");
+
+
 //       for (Map.Entry<String , Integer> entry : items.entrySet()){
 //           System.out.println(entry.getKey() + entry.getValue());
 //       }
